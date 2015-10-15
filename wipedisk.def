@@ -1,0 +1,5 @@
+NAME            WipeDisk WINDOWCOMPAT
+NEWFILES
+DESCRIPTION     'Wipe Disk v1.0, Copyright Ngb Technologies, 1992, All rights reserved.'
+PROTMODE
+STACKSIZE  8096
